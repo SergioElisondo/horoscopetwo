@@ -1,0 +1,195 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    color: white;
+  text-shadow: 2px 2px 4px #000000;
+  font-size: 1vw !important;
+}
+
+
+body {
+    background-image: url('https://live.staticflickr.com/65535/50959980913_6149d212e3_h.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }
+
+.hidden {
+    display: none;
+}
+
+.mainTitle {
+    font-size: 7vw;
+    text-align: center;
+}
+
+.mainBox1 {
+    float: left;
+    height: auto;
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+.box1 {
+    float: left;
+    height: auto;
+    width: 5%;
+    font-size: 1vw;
+    text-align: center;
+    border: 1px solid white;
+    margin-left: 20%;
+}
+
+.box2 {
+    float: left;
+    height: auto;
+    width: 5%;
+    font-size: 1vw;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.box3 {
+    float: left;
+    height: auto;
+    width: 5%;
+    font-size: 1vw;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.box4 {
+    float: left;
+    height: auto;
+    width: 5%;
+    font-size: 1vw;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.box5 {
+    float: left;
+    height: auto;
+    width: 5%;
+    font-size: 1vw;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.box6 {
+    float: left;
+    height: auto;
+    width: 5%;
+    font-size: 1vw;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.box7 {
+    float: left;
+    height: auto;
+    width: 5%;
+    font-size: 1vw;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.box8 {
+    float: left;
+    height: auto;
+    width: 5%;
+    font-size: 1vw;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.box9 {
+    float: left;
+    height: auto;
+    width: 5%;
+    font-size: 1vw;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.box10 {
+    float: left;
+    height: auto;
+    width: 5%;
+    font-size: 1vw;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.box11 {
+    float: left;
+    height: auto;
+    width: 5%;
+    font-size: 1vw;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.box12 {
+    float: left;
+    height: auto;
+    width: 5%;
+    font-size: 1vw;
+    text-align: center;
+    border: 1px solid white;
+    margin-right: 20%;
+}
+
+/* this is where the message goes */
+
+.mainBox2 {
+    float: left;
+    height: auto;
+    width: 100%;
+    margin-bottom: 10%;
+}
+
+.thisIsYourTitle {
+    font-size: 3vw;
+    text-align: center;
+}
+
+.mainBox3Message {
+    float: left;
+    height: auto;
+    width: 100%;
+    margin-bottom: 10%;
+}
+
+/* The wording INSIDE the box - the main horoscope */
+
+/* .theForturneMessage {
+    float: left;
+    height: auto;
+    width: 50%;
+    margin-top: 3%;
+    margin-left: 25%;
+    margin-right: 25%;
+} */
+
+/* box that contains the message */
+.aroundTheMessage {
+    float: left;
+    height: auto;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.aroundTheMessage2{
+    float: left;
+    height: auto;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 4px;
+    border: 1px solid rgb(255, 255, 255);
+}
